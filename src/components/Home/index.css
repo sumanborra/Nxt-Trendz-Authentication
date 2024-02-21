@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.home-page-container {
+  padding: 50px;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  display: flex;
+
+  justify-content: space-between;
+}
+.home-page-heading {
+  font-size: 46px;
+  color: #1e293b;
+}
+.home-page-description {
+  font-size: 22px;
+  color: #64748b;
+}
+.shop-now-buttn {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 5px;
+  border-radius: 12px;
+  border-width: 0px;
+  height: 45px;
+  width: 150px;
+  font-size: 22px;
+}
+.home-page-image {
+  height: 350px;
+}
